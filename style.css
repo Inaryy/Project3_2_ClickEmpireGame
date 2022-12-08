@@ -1,0 +1,55 @@
+body{
+    font-family: Futura!important;
+    letter-spacing: 0.02em!important;
+}
+
+
+.bg-blue {
+    background: #1A4567;
+}
+
+.w-40{
+    width: 40%;
+}
+
+.w-80{
+    width: 80%;
+}
+
+.w-85{
+    width: 85%;
+}
+
+.w-95{
+    width: 95%;
+}
+
+.h-80{
+    height: 80%;
+}
+
+.h-95{
+    height:95%;
+}
+
+.selectItem{
+    background: #1A4567;
+}
+
+.selectItem:hover{
+    border: 2px solid steelblue;
+    cursor: pointer;
+}
+
+.text-primary:hover{
+    opacity: 0.9;
+}
+
+.hover {
+    cursor: pointer;
+}
+
+.hover:hover {
+    opacity: 0.9;
+}
+
